@@ -1,6 +1,6 @@
 {
     "name":              "fanst1109/doctrine-orm-module",
-    "description":       "Zend Framework 2 Module that provides Doctrine ORM functionality",
+    "description":       "Zend Framework 3 Module that provides Doctrine ORM functionality",
     "type":              "library",
     "license":           "MIT",
     "keywords":          [
